@@ -9,6 +9,7 @@
   },
   "insomnia": {
     "name": "theme-embark",
+		"displayName": "Embark Theme",
     "description": "Embark Theme",
     "images": {
       "cover": "screenshot.png"
