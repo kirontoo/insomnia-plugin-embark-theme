@@ -21,13 +21,13 @@ module.exports = {
 			info: '#1e1c31'
 		},
 		highlight: {
-			default: '#d4bfff',
-			xxs: '#3e3859',
-			xs: '#3e3859',
-			sm: '#3e3859',
-			md: '#3e3859',
-			lg: '#3e3859',
-			xl: '#d4bfff'
+			default: 'rgba(212, 191, 255, 1)',
+			xxs: 'rgba(212, 191, 255, 0.05)',
+			xs: 'rgba(212, 191, 255, 0.1)',
+			sm: 'rgba(212, 191, 255, 0.15)',
+			md: 'rgba(212, 191, 255, 0.2)',
+			lg: 'rgba(212, 191, 255, 0.25)',
+			xl: 'rgba(212, 191, 255, 0.3)'
 		},
 		styles: {
 			sidebar: {
