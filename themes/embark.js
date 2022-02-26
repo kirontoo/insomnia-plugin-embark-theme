@@ -21,23 +21,33 @@ module.exports = {
 			info: '#1e1c31'
 		},
 		highlight: {
-			default: 'rgba(212, 191, 255, 1)',
-			xxs: 'rgba(212, 191, 255, 0.15)',
-			xs: 'rgba(212, 191, 255, 0.2)',
-			sm: 'rgba(212, 191, 255, 0.25)',
-			md: 'rgba(212, 191, 255, 0.3)',
-			lg: 'rgba(212, 191, 255, 0.35)',
-			xl: 'rgba(212, 191, 255, 0.4)'
+			default: '#8A889D',
 		},
 		styles: {
+			appHeader: {
+				background : {
+					default: '#100e23'
+				}
+			},
 			sidebar: {
 				background: {
-					default: '#1e1c31'
+					default: '#100e23'
+				},
+				highlight: {
+					default: "#cbe3e7"
 				}
 			},
 			dialog: {
 				background: {
 					default: '#100e23'
+				}
+			},
+			tooltip: {
+				background: {
+					default: '#100e23'
+				},
+				foreground: {
+					default: '#cbe3e7'
 				}
 			},
 			paneHeader: {
@@ -52,7 +62,7 @@ module.exports = {
 			},
 			transparentOverlay: {
 				background: {
-					default: 'rgba(40, 42, 54, 0.5)'
+					default: 'rgba(16, 14, 35, 0.6)'
 				}
 			}
 		}
