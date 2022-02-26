@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-embark-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dark theme for the app Insomnia",
   "main": "main.js",
   "repository": {
@@ -9,7 +9,7 @@
   },
   "insomnia": {
     "name": "theme-embark",
-		"displayName": "Embark Theme",
+    "displayName": "Embark Theme",
     "description": "Embark Theme",
     "images": {
       "cover": "screenshot.png"
